@@ -50,6 +50,20 @@ SHA-256:
 Use is permitted for non-commercial purposes only. Commercial use requires prior
 written permission.
 
+## Disclaimer
+
+The binaries are provided as-is. To the maximum extent permitted by applicable
+law, the author provides no warranty of any kind and assumes no liability for
+any damage, loss, malfunction, data issue, or other problem arising from use of
+the software. Users are responsible for determining whether the software is
+appropriate for their own environment and purpose, and for all results of using
+it.
+
+This wording follows the general approach used by common open source licenses
+such as the [MIT License](https://opensource.org/license/mit/) and
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), which provide
+software as-is and limit warranty and liability.
+
 ---
 
 ## 日本語
@@ -105,3 +119,18 @@ SHA-256:
 ## ライセンス
 
 非商用目的でのみ利用できます。商用利用には事前の書面による許可が必要です。
+
+## 免責事項
+
+このバイナリファイルは現状有姿で提供されます。適用法令により認められる
+最大限の範囲で、作成者はいかなる種類の保証も行わず、本ソフトウェアの使用
+に起因または関連して生じた損害、損失、不具合、データ上の問題、その他一切
+の問題について責任を負いません。
+
+本ソフトウェアが利用者の環境や目的に適しているかの判断、および使用に伴う
+結果については、すべて利用者自身の責任に属します。
+
+この記載は、[MIT License](https://opensource.org/license/mit/) や
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) など、
+広く使われているオープンソースライセンスに見られる「現状有姿での提供」、
+「保証の否認」、「責任制限」の考え方を参考にしています。
