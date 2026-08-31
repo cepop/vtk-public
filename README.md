@@ -7,8 +7,8 @@ Source code is not included.
 
 ## Downloads
 
-- Windows: [`dif-vtk-converter.exe`](./dif-vtk-converter.exe)
-- macOS: [`DIF-VTK-Converter-macOS.zip`](./DIF-VTK-Converter-macOS.zip)
+- Windows: [`dif-vtk-converter.exe`](https://raw.githubusercontent.com/cepop/vtk-public/main/dif-vtk-converter.exe)
+- macOS: [`DIF-VTK-Converter-macOS.zip`](https://raw.githubusercontent.com/cepop/vtk-public/main/DIF-VTK-Converter-macOS.zip)
 
 ## Usage
 
@@ -75,8 +75,8 @@ DIF/XML ファイルを VTK legacy 形式の `.vtk` ファイルへ変換する�
 
 ## ダウンロード
 
-- Windows: [`dif-vtk-converter.exe`](./dif-vtk-converter.exe)
-- macOS: [`DIF-VTK-Converter-macOS.zip`](./DIF-VTK-Converter-macOS.zip)
+- Windows: [`dif-vtk-converter.exe`](https://raw.githubusercontent.com/cepop/vtk-public/main/dif-vtk-converter.exe)
+- macOS: [`DIF-VTK-Converter-macOS.zip`](https://raw.githubusercontent.com/cepop/vtk-public/main/DIF-VTK-Converter-macOS.zip)
 
 ## 使い方
 
