@@ -5,6 +5,9 @@ DIF/XML files to legacy VTK `.vtk` files converter.
 This public repository contains only the prebuilt desktop apps and this README.
 Source code is not included.
 
+This application was developed by the author as a convenience tool. The
+converted VTK file format is described in this README.
+
 ## Downloads
 
 - Windows: [`dif-vtk-converter.exe`](https://raw.githubusercontent.com/cepop/vtk-public/main/dif-vtk-converter.exe)
@@ -43,6 +46,8 @@ SHA-256:
 
 - The converter writes VTK legacy ASCII `POLYDATA` files.
 - The app is intended for local file conversion.
+- If you encounter a problem, please open an Issue with your operating system,
+  app version, input file type, error message, and clear reproduction steps.
 - Do not publish patient data or generated files that contain sensitive data.
 
 ## License
@@ -72,6 +77,9 @@ DIF/XML ファイルを VTK legacy 形式の `.vtk` ファイルへ変換する�
 
 この public リポジトリには、ビルド済みデスクトップアプリと README のみを
 含めています。ソースコードは含まれていません。
+
+本アプリケーションは、作成者が利便性のために開発したものです。変換された
+VTK ファイルの仕様は、この README に記載の通りです。
 
 ## ダウンロード
 
@@ -114,6 +122,8 @@ SHA-256:
 
 - 変換ツールは VTK legacy ASCII `POLYDATA` ファイルを書き出します。
 - このアプリはローカルファイル変換用途を想定しています。
+- 使用上の問題などがありましたら、使用環境、アプリのバージョン、入力ファイル
+  の種類、エラーメッセージ、再現手順などを明記の上、Issue に記載してください。
 - 患者データや機微情報を含む生成ファイルは公開しないでください。
 
 ## ライセンス
