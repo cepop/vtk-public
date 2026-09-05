@@ -26,6 +26,18 @@ files onto `DIF VTK Converter.app`.
 
 If you open the app directly, it shows a file selection dialog.
 
+### Typical Workflow
+
+1. Import cardiac CT DICOM files into EnSite Verismo.
+2. Create the required chamber 3D structures in Verismo.
+3. Export the created DIF files from the EnSite "Export DIF" screen to a USB
+   drive or another transfer location.
+4. Download the converter app to your PC or Mac.
+5. Drag and drop the DIF files, which are XML files, onto the converter app.
+6. VTK files are created in a `vtk_output` folder in the same directory as the
+   DIF files.
+7. Load the VTK files in Affera.
+
 ## Output
 
 Converted files are written to a `vtk_output` folder next to the input file.
@@ -99,6 +111,19 @@ VTK ファイルの仕様は、この README に記載の通りです。
 `DIF VTK Converter.app` へドラッグ&ドロップしてください。
 
 アプリを直接開いた場合は、ファイル選択ダイアログが表示されます。
+
+### 想定される使用手順
+
+1. EnSite Verismo に心臓 CT の DICOM ファイルをインポートします。
+2. Verismo で必要な chamber の 3D 構造を作成します。
+3. EnSite の「Export DIF」画面で作成した DIF を USB メモリなどに
+   エクスポートします。
+4. PC/Mac に変換プログラムをダウンロードします。
+5. DIF ファイル（実態は XML ファイル）を変換プログラムにドラッグ&ドロップ
+   します。
+6. DIF ファイルと同じディレクトリの `vtk_output` フォルダに VTK ファイルが
+   作成されます。
+7. Affera で VTK ファイルをロードします。
 
 ## 出力
 
